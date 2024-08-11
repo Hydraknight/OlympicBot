@@ -59,9 +59,8 @@ Ensure you have the following installed:
 
 ### Commands
 
-- `!schedule [country] [sport] [event] [limit]` - Fetches the schedule for the given filters.
+- `!schedule [country] [sport] [event] [limit]` - Fetches the schedule for the given filters.[WILL NO LONGER WORK]
 - `!results [country] [sport] [event] [limit]` - Fetches results based on the given filters.
-- `!setreminder [eventID]` - Sets a reminder for a specific event.
 - `!help` - Displays help information.
 
 ### Files
