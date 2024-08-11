@@ -61,6 +61,7 @@ Ensure you have the following installed:
 
 - `!schedule [country] [sport] [event] [limit]` - Fetches the schedule for the given filters.[WILL NO LONGER WORK]
 - `!results [country] [sport] [event] [limit]` - Fetches results based on the given filters.
+- `!medals [country]` - Fetches medal data for the country.
 - `!help` - Displays help information.
 
 ### Files
